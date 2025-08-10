@@ -1,4 +1,4 @@
-# Booksky Book Log App
+# Booksky Book Log App 📕
 
 A clean and responsive web application for logging and browsing books in your personal reading journal.
 
